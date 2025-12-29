@@ -1,0 +1,12 @@
+[package]
+name = "rust-exercises"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+regex = "1.12.2"
+rand = "0.9.2"
+once_cell = "1.21.3"
+
+[dev-dependencies]
+proptest = "1.0.0"
